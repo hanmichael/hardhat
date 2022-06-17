@@ -1,5 +1,15 @@
 # hardhat
 
+## 2.9.10
+
+### Patch Changes
+
+- 3dcc802b3: Add support for Node 18
+- 3dcc802b3: Upgrade Mocha to 10.x
+- 3dcc802b3: Upgrade ethereum-cryptography to 1.x
+- f5afa18d3: Removed a workaround to past Ganache's gas estimation problems.
+- 3dcc802b3: Drop support for Node 12
+
 ## 2.9.9
 
 ### Patch Changes
